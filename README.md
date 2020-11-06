@@ -9,6 +9,12 @@ This repo relies on the Tikal dataset avaliable via Cyark. You can download it [
 - Download [LASTools](https://rapidlasso.com/lastools/) (Click on LASTools -> download)
 - If you are on a MAC you will need to [install wine](https://www.winehq.org/) too
 
+# Additional information
+- On Mac Catalina you will need to change the "wine" command to "wine64"
+- On Windows you don't need wine
+- LAS_DIR refers to the directory where you have downloaded LASTools to
+- HIVE_DIR is the directory where your data is
+
 # References
 - [Introduction to LIDAR for Archaeology](https://computationalarchaeology.wordpress.com/2020/10/04/intro-to-lidar-for-archaeology/)
 - From LIDAR to archaeological DSM
